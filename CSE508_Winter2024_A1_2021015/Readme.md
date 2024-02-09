@@ -90,6 +90,9 @@ Names of documents retrieved for query 1 : file1.txt, file23.txt, file29.txt, fi
 ```
 
 ### Question 3: Positional Index and Phrase Queries
+References:
+- https://nlp.stanford.edu/IR-book/html/htmledition/positional-indexes-1.html
+- https://www.linkedin.com/advice/3/how-do-you-optimize-phrase-queries-using
 
 - Approach:
     - The function initializes an empty set named `docs`. For the first word in the query, it retrieves the set of document identifiers (docIDs) where this word appears from the positional index and stores them in `docs`. This set represents the potential documents that could contain the phrase.
