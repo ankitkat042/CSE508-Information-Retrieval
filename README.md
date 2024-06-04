@@ -4,7 +4,7 @@ Assignments Repository for CSE-508 Information Retrieval offerered during Winter
     * [x] Data Preprocessing
     * [x]  Unigram Inverted Index and Boolean Queries
     * [x] Positional Index and Phrase Queries
-- [x] [Assignment 2](https://github.com/ankitkat042/CSE508-Information-Retrieval/tree/main/CSE508_Winter2024_A2_2021015) Graded: _/100
+- [x] [Assignment 2](https://github.com/ankitkat042/CSE508-Information-Retrieval/tree/main/CSE508_Winter2024_A2_2021015) Graded: 98/100
     * [x] Image Feature Extraction
     * [x] Text Feature Extract
     * [x] Multimodal Retrieval System
